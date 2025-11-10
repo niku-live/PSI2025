@@ -59,3 +59,9 @@ This repository contains code examples that will be used during lectures to demo
 - [Lecture 01](Lecture01/README.md) - Course Introduction, Teams & Evaluation Process
 - [Lecture 02](Lecture02/README.md) - Simple project (React + ASP.NET Core), RESTful APIs and testing them from Postman
 - [Lecture 03](Lecture03/README.md) - Deadline 1 Checklist
+- Lecture 04
+- Lecture 05
+- Lecture 06 
+- Lecture 07 - Deadline 1: Alpha version presentation
+- Lecture 08 - Testing framework overview
+- [Lecture 09](Lecture09/README.md) - Deadline 2 Checklist
