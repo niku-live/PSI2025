@@ -65,3 +65,7 @@ This repository contains code examples that will be used during lectures to demo
 - Lecture 07 - Deadline 1: Alpha version presentation
 - Lecture 08 - Testing framework overview
 - [Lecture 09](Lecture09/README.md) - Deadline 2 Checklist
+- Lecture 10 
+- Lecture 11
+- Lecture 12
+- [Lecture 13](Lecture13/README.md) - Deadline 3 Checklist
